@@ -1,7 +1,25 @@
-Summary (заголовок)
-Description (описание)
-Actual/expected result (фактический/ожидаемый результат)
-Attachments (вложения)
-Priority (приоритет)
-Severity (серьёзность)
-Status (статус)
+Bug 1
+
+Project (название проекта): Northern cosmetics
+
+ID (уникальный номер отчета): WS751000275
+
+Created Date (дата создания): 20.02.2022
+
+Update Date (дата обновления):26.02.2022
+
+Summary (заголовок): grammatical error in the title on the main page
+
+Description (описание): open the main page of the site, there is a grammatical error in "our products" in the upper right corner of the page
+
+Status (текущий статус): Open 
+
+Actual/expected result (фактический/ожидаемый результат):"our prodActs" /"our products"
+
+Attachments (вложения): screenshot, video
+
+Priority (приоритет): Major
+
+Severity (серьёзность): Minor
+
+Environment (окружение): Opera Версия:84.0.4316.21
